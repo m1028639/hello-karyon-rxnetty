@@ -13,6 +13,8 @@
 ./gradlew clean fatJar
 java -jar build/libs/hello-karyon-rxnetty-all-0.1.0.jar
 
+trigger a build
+
 Trigger a build
 Trigger a build again
 Trigger a build
